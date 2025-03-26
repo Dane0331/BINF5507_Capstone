@@ -99,8 +99,11 @@ AdaBoost is a widely used boosting algorithm in machine learning due to its abil
 
 ## **Key Insights:**
 - **Accuracy:** Random Forest (82.2%) outperforms AdaBoost (83.3%).
-- **Precision & Recall:** Random Forest is slightly better (0.86 vs 0.83) meaning fewer false negatives.
-- 
+- **Precision & Recall:**
+-- Random Forest has a slightly higher precision than AdaBoost (0.86 vs. 0.80)
+-- AdaBoost has a higher recall for class 0 (0.92 vs. 0.90)
+
+
 
 - AdaBoost is highly effective for clean, noise-free datasets.
 - It performs well in binary classification tasks with clear decision boundaries.
