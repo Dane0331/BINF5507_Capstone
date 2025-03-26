@@ -1,6 +1,7 @@
 # **AdaBoost: An Adaptive Boosting Approach**
-**BINF5507: Capstone Project
-Group: Alina Elahie,	Daniel Esguerra,	Rihana Mohamed**
+**BINF5507: Capstone Project**
+
+**Group: Alina Elahie,	Daniel Esguerra,	Rihana Mohamed**
 
 ## **Project Overview:**
 This project explores Adaptive Boosting (AdaBoost), an ensemble machine learning algorithm that sequentially improves weak classifiers to form a strong classifier. The report provides an in-depth analysis of AdaBoost's mechanics, real-world applications, performance considerations, and its implementation using the UCI Heart Disease Dataset. Additionally, we provide a brief comparison to Random Forest to highlight key differences in performance.
