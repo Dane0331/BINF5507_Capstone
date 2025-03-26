@@ -53,7 +53,8 @@ AdaBoost is a widely used boosting algorithm in machine learning due to its abil
 
 ## **Performance Metrics:**
 **====== AdaBoost Results ======**
-**Accuracy:** 0.8333333333333334
+- **Accuracy:** 0.8333333333333334
+
 **Classification Report:**
 
 |                  	| **precision** 	| **recall** 	| **f1-score** 	| **support** 	|
@@ -65,7 +66,8 @@ AdaBoost is a widely used boosting algorithm in machine learning due to its abil
 | **weighted avg** 	|  0.84         	|  0.83      	|  0.83        	| 90          	|
 
 **===== Random Forest Results =====**
-**Accuracy:** 0.8222222222222222
+- **Accuracy:** 0.8222222222222222
+
 **Classification Report:**
 
 |                  	| **precision** 	| **recall** 	| **f1-score** 	| **support** 	|
@@ -86,10 +88,10 @@ AdaBoost is a widely used boosting algorithm in machine learning due to its abil
 | **Random Forest** 	| 0.822        	| 0.86          	| 0.74       	| 0.79         	|
 
 ### **Confusion Matrices**
-**AdaBoost:**
+- **AdaBoost:**
 [[44  4]
  [11 31]]
-**Random Forest:**
+- **Random Forest:**
 [[43  5]
  [11 31]]
 
