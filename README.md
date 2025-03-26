@@ -43,6 +43,7 @@ AdaBoost is a widely used boosting algorithm in machine learning due to its abil
 
 ## **Dataset:**
 **Source: UCI Machine Learning Repository - Heart Disease Dataset (link)**
+
 **Features:** Includes patient attributes like age, cholesterol levels, blood pressure, etc.
 
 ## **Code Implementation:**
@@ -110,7 +111,7 @@ AdaBoost is a widely used boosting algorithm in machine learning due to its abil
 
 AdaBoost is a powerful ensemble method that improves weak classifiers, making it effective for high-accuracy classification tasks. While it has limitations like sensitivity to noisy data, it remains a valuable tool in fields such as healthcare, finance, and computer vision.
 
-## **Tools & Libraries: **
+## **Tools & Libraries:**
 - Python (v3.x)
 - Scikit-learn
 - NumPy & Pandas
